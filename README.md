@@ -7,6 +7,6 @@
 
 A Brazilian 🇧🇷 that works with Remote Sensing 🛰️ and Computing 💻.
 
-I'm a Software Developer at FUNCATE (Foundation for Space Science, Applications and Technology) on the [Brazil Data Cube Project (BDC)](http://www.brazildatacube.org). I have a **PhD in Applied Computing** from INPE (National Institute for Space Research, Brazil), a **MSc in Remote Sensing** from INPE and a **BSc in Computer Science** from UFLA (University of Lavras, Brazil).
+I'm a Software Developer at FUNCATE (Foundation for Space Science, Applications and Technology) Working on the [Brazil Data Cube Project (BDC)](http://www.brazildatacube.org). I have a **PhD in Applied Computing** from INPE (National Institute for Space Research, Brazil), a **MSc in Remote Sensing** from INPE and a **BSc in Computer Science** from UFLA (University of Lavras, Brazil).
 
 > NOTE: Feel free to send me a message.
