@@ -40,7 +40,7 @@
 <p>
   <ul style="list-style-type:square;">
       <li>2024 - Current: National Council for Scientific and Technological Development (CNPq) Technological Development Scholarship;</li>
-      <li>2019 - 2024: Software Developer at FUNCATE (Foundation for Space Science, Applications and Technology) Working on the [Brazil Data Cube Project (BDC)](http://www.brazildatacube.org);</li>
+      <li>2019 - 2024: Software Developer at FUNCATE (Foundation for Space Science, Applications and Technology) Working on the <a href="http://www.brazildatacube.org">Brazil Data Cube Project (BDC)</a>;</li>
       <li>2016 - 2019: INPE Scholarship (PhD in Applied Computing) working on Multi-Source Data Cubes and Sensor Harmonization;</li>
       <li>2014 - 2016: INPE Scholarship (MSc in Remote Sensing) working on Segmentation and Texture attributes on Machine Learning to identify Coffe crops;</li>
       <li>2013 - 2014: UFLA Scholarship working on Medical Ressonance Image Segmentation;</li>
