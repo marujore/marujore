@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/Linked-In-blue?style=flat-square)](https://www.linkedin.com/in/rennan-marujo-28055412a/)
 [![Twitter Badge](https://img.shields.io/twitter/follow/marujorennan?style=social)](https://twitter.com/marujorennan)
 
-<h1>Hi there 👋 Glad to see you here!</h1>
+<h1>Hi there! 👋</h1>
 
 <p>I'm Rennan Marujo, a Brazilian 🇧🇷 that works with Remote Sensing 🛰️ and Computing 💻.</p>
 <h3>Things I code with:</h3>
@@ -14,7 +14,7 @@
   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-<h3>Libraries I am used to work with:</h3>
+<h3>Libraries I am used to work:</h3>
 <p>
   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -60,3 +60,5 @@
 ---
 
 > NOTE: Feel free to send me a message.
+
+[<img src="https://ko-fi.com/img/githubbutton_sm.svg" width="200" />](https://ko-fi.com/marujore)
