@@ -5,7 +5,7 @@
 
 <h1>Hi there! 👋</h1>
 
-<p>I'm Rennan Marujo, a Brazilian 🇧🇷 that works with Remote Sensing 🛰️ and Computing 💻.</p>
+<p>I'm Rennan Marujo 🇧🇷🇵🇹. I work with Remote Sensing 🛰️ and Computing 💻.</p>
 <h3>Things I code with:</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
