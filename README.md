@@ -36,7 +36,7 @@
   <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
 </p>
 
-<h3>My professional tragectory:</h3>
+<h3>My professional trajectory:</h3>
 <p>
   <ul style="list-style-type:square;">
       <li>2024 - Current: National Council for Scientific and Technological Development (CNPq) Technological Development Scholarship;</li>
