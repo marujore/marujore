@@ -60,5 +60,3 @@
 ---
 
 > NOTE: Feel free to send me a message.
-
-[<img src="https://ko-fi.com/img/githubbutton_sm.svg" width="200" />](https://ko-fi.com/marujore)
